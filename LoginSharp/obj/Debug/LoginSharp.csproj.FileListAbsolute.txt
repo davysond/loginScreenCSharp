@@ -1,0 +1,11 @@
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\bin\Debug\LoginSharp.exe.config
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\bin\Debug\LoginSharp.exe
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\bin\Debug\LoginSharp.pdb
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.csproj.AssemblyReference.cache
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.FrmLogin.resources
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.Properties.Resources.resources
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.csproj.GenerateResource.cache
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.csproj.CoreCompileInputs.cache
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.exe
+C:\Users\davys\source\repos\LoginSharp\LoginSharp\obj\Debug\LoginSharp.pdb
